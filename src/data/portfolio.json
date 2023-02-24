@@ -1,0 +1,105 @@
+[
+    {
+        "title": "Title One",
+        "text": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century.",
+        "image" : "https://picsum.photos/400/300?random=1",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Two",
+        "text": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy.",
+        "image" : "https://picsum.photos/400/300?random=2",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Three",
+        "text": "The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.",
+        "image" : "https://picsum.photos/400/300?random=3",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Four",
+        "text": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it, and it actually says nothing.",
+        "image" : "https://picsum.photos/400/300?random=4",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Five",
+        "text": "Richard McClintock, a Latin scholar from Hampden-Sydney College, is credited with discovering the source behind the ubiquitous filler text.",
+        "image" : "https://picsum.photos/400/300?random=5",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Six",
+        "text": "It's difficult to find examples of lorem ipsum in use before Letraset made it popular as a dummy text in the 1960s.",
+        "image" : "https://picsum.photos/400/300?random=6",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Seven",
+        "text": "Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. ",
+        "image" : "https://picsum.photos/400/300?random=7",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    },
+
+    {
+        "title": "Title Eight",
+        "text": "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready. ",
+        "image" : "https://picsum.photos/400/300?random=8",
+        "site" : "https://bbc.com/",
+        "repo" : "https://github.com/",
+        "tech" : [
+            "CSS",
+            "Javascript",
+            "React.js"
+        ]
+    }
+]

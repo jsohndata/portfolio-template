@@ -1,0 +1,23 @@
+section[aria-label="Hero3"] {
+  background-color: #737373;
+  text-align: right;
+}
+
+section[aria-label="Hero3"] h1 {
+  color: #1c1010;
+}
+
+section[aria-label="Hero3"] h1 + p {
+  margin-top: 1.2em;
+}
+
+section[aria-label="Hero3"] h1 > span {
+  color: white;
+}
+
+section[aria-label="Hero3"] img {
+  display: block;
+  height: 600px;
+  margin: 0 auto;
+
+}

@@ -1,0 +1,10 @@
+.boxinfo {
+  background-color: rgb(233, 232, 222) !important;
+  height: 35em !important;
+  padding: 10px;
+  margin-bottom: 2em;
+}
+
+.boxinfo img {
+  aspect-ratio: 4/3;
+}

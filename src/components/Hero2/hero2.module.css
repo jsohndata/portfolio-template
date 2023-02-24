@@ -1,0 +1,28 @@
+section[aria-label="Hero2"] {
+  background-image: url('http://localhost:3000/images/hero2-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.content {
+  background-color: rgba(21, 15, 60, 0.684);
+}
+
+section[aria-label="Hero2"] h1 {
+  font-size: clamp(3.2rem, 5.5vw, 6.5rem);
+  color: #f5f0f0;
+  ;
+}
+
+section[aria-label="Hero2"] h1 + p {
+  min-width: 70%;
+  max-width: 85%;
+  margin-top: 1.2em;
+  color: white;
+}
+
+section[aria-label="Hero2"] h1 > span {
+  color: rgb(255, 0, 0);
+}

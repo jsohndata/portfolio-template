@@ -1,0 +1,17 @@
+section[aria-label="Hero"] {
+  background-color: #fbacac;
+}
+
+section[aria-label="Hero"] h1 {
+  color: #1c1010;
+}
+
+section[aria-label="Hero"] h1 + p {
+  min-width: 70%;
+  max-width: 85%;
+  margin-top: 1.2em;
+}
+
+section[aria-label="Hero"] h1 > span {
+  color: white;
+}
